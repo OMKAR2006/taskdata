@@ -1,0 +1,89 @@
+[
+    {
+        
+        "id":1,
+        "product_name":"Tshirt",
+        "image":"https://i.ibb.co/zmwj0Fg/bluetshirt.webp" ,
+        "Stars":4.5,
+        "Ratings":1434,
+        "category_id":1,
+        "category":"Fashion",
+        "Price": 350,
+        "Size":"Large",
+        "Color":"Blue",
+        "Brand":"Classic",
+        "Delivery_type":"Rs.50/-"
+    },
+    {
+        "id":2,
+        "product_name":"Jeans",
+        "image":"https://i.ibb.co/cXHyqJJ/473-Wx593-H-460409676-pink-MODEL.jpg",
+        "Stars":4,
+        "Ratings":1234,
+        "category_id":1,
+        "category":"Fashion",
+        "Price": 550,
+        "Size":"Small",
+        "Color":"Pink",
+        "Brand":"Levis",
+        "Delivery_type":"Free"
+    },
+    {
+        "id":3,
+        "product_name":"Sarees",
+        "image":"https://i.ibb.co/fkPjcx6/redsare.jpg",
+        "Stars":5,
+        "Ratings":1214,
+        "category_id":1,
+        "category":"Fashion",
+        "Price": 350,
+        "Size":"Regular",
+        "Color":"Red",
+        "Brand":"Poonam",
+        "Delivery_type":"Rs.50/-"
+    },
+    {
+        "id":4,
+        "product_name":"Kurtas",
+        "image":"https://i.ibb.co/myHwSqD/basic-cream-kurta.jpg" ,
+        "Stars":4,
+        "Ratings":1014,
+        "category_id":1,
+        "category":"Fashion",
+        "Price": 750,
+        "Size":"Large",
+        "Color":"Cream",
+        "Brand":"Kate",
+        "Delivery_type":"Free"
+    },
+    {
+        "id":5,
+        "product_name":"Half Shirt",
+        "image":"https://i.ibb.co/WGpmc1W/men-s-half-sleeve-shirt.webp",
+        "Stars":5,
+        "Ratings":1214,
+        "category_id":1,
+        "category":"Fashion",
+        "Price": 550,
+        "Size":"Large",
+        "Color":"Blue",
+        "Brand":"Levis",
+        "Delivery_type":"Free"
+    },
+    {
+        "id":6,
+        "product_name":"Hoodie",
+        "image":"https://i.ibb.co/F3NCVgn/hoodie.webp",
+        "Stars":5,
+        "Ratings":1214,
+        "category_id":1,
+        "category":"Fashion",
+        "Price": 450,
+        "Size":"Regular",
+        "Color":"Black",
+        "Brand":"Nike",
+        "Delivery_type":"Rs.50/-"
+    }
+
+
+]

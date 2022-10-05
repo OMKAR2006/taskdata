@@ -1,0 +1,67 @@
+[
+    {
+        "id":1,
+        "product_name":"POCO C31 (Royal Blue, 64 GB)  (4 GB RAM)",
+        "image":"https://i.ibb.co/mT52ttm/c31-mzb0a0jin-poco-original-imag7bzqxgdhgf2n.webp",
+        "Stars":4.5,
+        "Ratings":1434,
+        "category_id":4,
+        "category":"Mobiles",
+        "Price": 15000,
+        "Color":"Royal Blue",
+        "Brand":"Redmi",
+        "Delivery_type":"Free"
+    },
+    {
+        "id":3,
+        "product_name":"MOTROLA SE2 (White, 128 GB)  (6 GB RAM)",
+        "image":"https://i.ibb.co/j6zry5k/motr.jpg",
+        "Stars":4,
+        "Ratings":1144,
+        "category_id":2,
+        "category":"Mobiles",
+        "Price": 18000,
+        "Color":"White",
+        "Brand":"Motrola",
+        "Delivery_type":"Free"
+    },
+    {
+        "id":1,
+        "product_name":"REDMI NOTE 7 (Black,64GB)  (6 GB RAM)",
+        "image":"https://i.ibb.co/Q9RFxCc/redmi.jpg",
+        "Stars":5,
+        "Ratings":2144,
+        "category_id":2,
+        "category":"Mobiles",
+        "Price": 16000,
+        "Color":"Black",
+        "Brand":"Redmi",
+        "Delivery_type":"Free"
+    },
+    {
+        "id":4,
+        "product_name":"VIVO Y2 (Travelent Blue, 128 GB)  (6 GB RAM)",
+        "image":"https://i.ibb.co/tYGf5HT/vivo.webp",
+        "Stars":4.5,
+        "Ratings":1444,
+        "category_id":2,
+        "category":"Mobiles",
+        "Price": 19000,
+        "Color":"Travelent Blue",
+        "Brand":"Vivo",
+        "Delivery_type":"Free"
+    },
+    {
+        "id":5,
+        "product_name":"OPPO CAMERA PRO (Crystal Black, 64 GB)  (4 GB RAM)",
+        "image":"https://i.ibb.co/PwkDv79/oppo.jpg",
+        "Stars":3.5,
+        "Ratings":1854,
+        "category_id":2,
+        "category":"Mobiles",
+        "Price": 14000,
+        "Color":"Crystal Black",
+        "Brand":"OPPO",
+        "Delivery_type":"Free"
+    },
+]

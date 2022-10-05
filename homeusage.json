@@ -1,0 +1,79 @@
+[
+{
+    "id":1,
+    "product_name":"KENT Ace Extra/ Ace Alkaline 8 L RO + UV + UF + TDS Control + Alkaline + UV in Tank Water Purifier with Alkaline Water  (White)",
+    "image":"https://i.ibb.co/MRVxr3g/kent.jpg",
+    "Stars":4.5,
+    "Ratings":1434,
+    "category_id":4,
+    "category":"Home Usage",
+    "Price": 15200,
+    "Warranty":"1 Year",
+    "Color":"White",
+    "Model_Name":"Ace Extra/ Ace Alkaline ",
+    "Delivery_type":"Free",
+    "Type": "Electric"
+},
+
+{
+"id":2,
+"product_name":"Singer FM 1409 Electric Sewing Machine  ( Built-in Stitches 9)",
+"image":"https://i.ibb.co/t8msv3c/usha-sewing-machine-500x500.jpg",
+"Stars":4,
+"Ratings":1434,
+"category_id":4,
+"category":"Home Usage",
+"Price": 8100,
+"Warranty":"2 Year",
+"Color":"White",
+"Model_Name":"FM 1409 ",
+"Delivery_type":"Free",
+"Type":"Electric"
+},
+{
+    "id":3,
+    "product_name":"PHILIPS FC9352/01 (883935201280) Bagless Dry Vacuum Cleaner with Powerful Suction,Turbo Brush  (Blue)",
+    "image":"https://i.ibb.co/Z1KXzT4/vaccum.jpg",
+    "Stars":4.5,
+    "Ratings":14344,
+    "category_id":4,
+    "category":"Home Usage",
+    "Price": 6999,
+    "Warranty":"2 Year",
+    "Color":"Roual Blue",
+    "Model_Name":"FC9352 ",
+    "Delivery_type":"Free",
+    "Type":"Electric"
+},
+{
+    "id":4,
+    "product_name":"Dyson V12 Detect Slim Absolute Cordless Vacuum Cleaner  (Yellow, Iron, Nickel)",
+    "image":"https://i.ibb.co/8PktPyL/va-cord.webp",
+    "Stars":4.5,
+    "Ratings":14744,
+    "category_id":4,
+    "category":"Home Usage",
+    "Price": 47999,
+    "Warranty":"2 Year",
+    "Color":"Roual Blue",
+    "Model_Name":"V12 ",
+    "Delivery_type":"Free",
+    "Type":"Charging"
+},
+{
+    "id":5,
+    "product_name":"D'Mak 15 Watt Square LED Surface Mounted Panel Light, Cool White Mounted Panel Cool White Pack Of 04 Flush Mount Ceiling Lamp  (White)",
+    "image":"https://i.ibb.co/w4hNkqY/led.jpg",
+    "Stars":4.5,
+    "Ratings":14744,
+    "category_id":4,
+    "category":"Home Usage",
+    "Price": 1599,
+    "Warranty":"NA",
+    "Color":"White",
+    "Model_Name":"FGDC ",
+    "Delivery_type":"Free",
+    "Type":"Electric" 
+}
+]
+

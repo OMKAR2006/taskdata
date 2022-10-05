@@ -1,0 +1,79 @@
+[
+    {
+    "id":1,
+    "product_name":"SPRINGTEK Solid Wood Queen Drawer Bed  (Finish Color - Teak Finish, Delivery Condition - Knock Down)",
+    "image":"https://i.ibb.co/gvNdsqG/bed.webp",
+    "Stars":4,
+    "Ratings":1444,
+    "category_id":5,
+    "category":"Furniture",
+    "Price": 26999,
+    "Warranty":"4 Year",
+    "Color":"Brown",
+    "Model_Name":"ST-BD-QS-01Dreamer ",
+    "Delivery_type":"Free",
+    "Material_Type":"Solid Wood"
+    },
+    {
+        "id":2,
+        "product_name":" 153 cm (5 ft) Polyester Window Curtain (Pack Of 2)  (Floral, Brown, Silver)",
+        "image":"https://i.ibb.co/GWyzLy7/windo.jpg",
+        "Stars":5,
+        "Ratings":1444,
+        "category_id":5,
+        "category":"Furniture",
+        "Price": 999,
+        "Warranty":"4 Year",
+        "Color":"Brown",
+        "Model_Name":"d-2 ",
+        "Delivery_type":"Free",
+        "Material_Type":"Polyester"
+        },
+{
+        "id":3,
+        "product_name":" CONTINENTAL Polyester Collapsible Wardrobe  (Finish Color - Maroon, DIY(Do-It-Yourself))",
+        "image":"https://i.ibb.co/N92XJr7/wardob.webp",
+        "Stars":3.5,
+        "Ratings":2144,
+        "category_id":5,
+        "category":"Furniture",
+        "Price": 1599,
+        "Warranty":"NA",
+        "Color":"Brown",
+        "Model_Name":"88170 M ",
+        "Delivery_type":"Free",
+        "Material_Type":"Fabric"
+        },
+
+        {
+            "id":4,
+            "product_name":"SPRINGTEK Folding Sofa Cum Bed - Perfect for Guests - Jute Fabric - 3 X 6 Feet Single Sofa Bed  (Finish Color - Grey Mechanism Type - Fold Out Delivery Condition - Pre-assembled)",
+            "image":"https://i.ibb.co/5c3qKzj/sofa.jpg",
+            "Stars":4.5,
+            "Ratings":2544,
+            "category_id":5,
+            "category":"Furniture",
+            "Price": 5999,
+            "Warranty":"1 Year",
+            "Color":"Grey",
+            "Model_Name":"88170 M ",
+            "Delivery_type":"Free",
+            "Material_Type":"Fabric"
+            },
+
+        {
+                "id":5,
+                "product_name":"TADesign Engineered Wood Shoe Rack  (3 Shelves, Knock Down)",
+                "image":"https://i.ibb.co/PwYx8HD/shoe.webp",
+                "Stars":4,
+                "Ratings":1544,
+                "category_id":5,
+                "category":"Furniture",
+                "Price": 4199,
+                "Warranty":"1 Year",
+                "Color":"Grey",
+                "Model_Name":"PAXTON2D-SHOCAB-WNT ",
+                "Delivery_type":"Free",
+                "Material_Type":"Engineered Wood"
+                }
+]

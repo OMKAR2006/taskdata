@@ -1,0 +1,82 @@
+[
+    {
+        "id":1,
+        "product_name":"Iron",
+        "image":"https://i.ibb.co/K6DgmbH/iron.jpg",
+        "Stars":4.5,
+        "Ratings":1434,
+        "category_id":3,
+        "category":"Electronics",
+        "Price": 750,
+        "Color":"light Vilolet",
+        "Brand":"Philips",
+        "Delivery_type":"Free"
+    },
+    {
+        "id":2,
+        "product_name":"Trimmer",
+        "image":"https://i.ibb.co/sRcPKJM/trimm.jpg" ,
+        "Stars":5,
+        "Ratings":1434,
+        "category_id":3,
+        "category":"Electronics",
+        "Price": 1050,
+        "Color" :"WhiteBlack",
+        "Brand":"Philips",
+        "Delivery_type":"Free"
+    },
+    {
+        "id":3,
+        "product_name":"Hair Straightner",
+        "image":"https://i.ibb.co/KxWgxrH/haiestr.webp" ,
+        "Stars":5,
+        "Ratings":1464,
+        "category_id":3,
+        "category":"Electronics",
+        "Price": 1500,
+        "Color" :"Black",
+        "Brand":"Havells",
+        "Delivery_type":"Free"
+    },
+    {
+        "id":4,
+        "product_name":"Electric Stove",
+        "image":"https://i.ibb.co/vHrmQLW/stov.png",
+        "Stars":3.5,
+        "Ratings":1234,
+        "category_id":3,
+        "category":"Electronics",
+        "Price": 3500,
+        "Color" :"Black",
+        "Brand":"Goldy",
+        "Delivery_type":"Free"
+    },
+    {
+        "id":5,
+        "product_name":"Elecric Cooker",
+        "image":"https://i.ibb.co/Hg3SpSz/cooker-e.jpg",
+        "Stars":5,
+        "Ratings":534,
+        "category_id":3,
+        "category":"Electronics",
+        "Price": 1100,
+        "Color" :"Black",
+        "Brand":"Havells",
+        "Delivery_type":"Free"
+    },
+    {
+        "id":6,
+        "product_name":"Oven",
+        "image":"https://i.ibb.co/XjXdbD1/lg-oven.webp",
+        "Stars":5,
+        "Ratings":354,
+        "category_id":3,
+        "category":"Electronics",
+        "Price": 2500,
+        "Color" :"Black",
+        "Brand":"LG",
+        "Delivery_type":"Free"
+    }
+
+
+]
